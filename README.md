@@ -6,7 +6,7 @@ Site do curso de VueJS 3 com MySQL do professor Matheus Battisti, houve melhoria
 </div> <br><br>
 
 <div align="center">
-<img src="[https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/pedidos.jpg](https://github.com/henriquesouzo/Festa-VueJS3/blob/main/dashboard%20festa.jpg)" />
+<img src="https://github.com/henriquesouzo/Festa-VueJS3/blob/main/dashboard%20festa.jpg" />
 </div> <br>
 
 Foram aplicadas algumas técnicas de html e css, como imagem em Banner, navbar e footer, e utilizando banco de dados MySQL no backend.
