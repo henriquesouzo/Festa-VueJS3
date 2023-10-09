@@ -7,16 +7,16 @@ Site do curso de VueJS 3 com MySQL do professor Matheus Battisti, houve melhoria
 
 <div align="center">
 <img src="https://github.com/henriquesouzo/Festa-VueJS3/blob/main/dashboard%20festa.jpg" />
-</div> <br>
+</div> <br> <br>
 
 Foram aplicadas algumas técnicas de html e css, como imagem em Banner, navbar e footer, e utilizando banco de dados MySQL no backend.
 
-Para funcionar voce deve rodar o comando no CMD na caminho da pasta frontend: 
+Para funcionar voce deve rodar o comando no CMD na caminho da pasta frontend: <br>
 npm run serve
 
 <img src="https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/npm%20run%20serve.jpg" />
 
-e depois em outro cmd no caminho da pasta backend para consumir o banco de dados:
+e depois em outro cmd no caminho da pasta backend para consumir o banco de dados: <br>
 npm run start
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
